@@ -8,7 +8,7 @@ All you need to do is to add `-fopenmp` in compile argument in you IDE
     * [CodeBlocks setup](http://instincttechies.blogspot.com/2013/06/how-to-use-openmp-in-codeblocks.html)
 # How it works
 The port is fixed to 5000, no need to specify it in the arguments anymore. Furthermore, the server gets more realistic now. The reply of the server is now automatique, it replies with `Welcome....`.
-1 - run the server from the IDE 
-2 - Go to the folder where the client executable is.
-3 - open as many terminals as the number of client your server can handl
-4 - run the client using this command if you are in windows `client.exe localhost 5000`
+1. run the server from the IDE 
+2. Go to the folder where the client executable is.
+3. open as many terminals as the number of client your server can handl
+4. run the client using this command if you are in windows `client.exe localhost 5000`
